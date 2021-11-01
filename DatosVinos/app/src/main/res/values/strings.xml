@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DatosVinos</string>
+    <string name="csv_file">vinos.csv</string>
+    <string name="id_del_vino">Id del vino</string>
+    <string name="nombre_vino">Nombre</string>
+    <string name="bodega">Bodega</string>
+    <string name="color">Color</string>
+    <string name="origen">Origen</string>
+    <string name="graduaci_n">Graduación</string>
+    <string name="fecha">Fecha</string>
+    <string name="a_adir">Añadir</string>
+    <string name="editar">Editar</string>
+    <string name="borrar">Borrar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
